@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olya's Digital Corner 🌙
 
-<!--
-**MsOllechka/MsOllechka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Games • Open Source • Digital curiosities
 
-Here are some ideas to get you started:
+I like discovering interesting tools, exploring software
+and finding cool things worth keeping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 Into
+
+🎮 Gaming  
+🎬 Movies & Series  
+🎵 Music  
+✨ Anime  
+🏆 Esports  
+
+---
+
+### 🧰 Currently exploring
+
+🔎 Interesting open-source projects  
+💻 Useful tools & software  
+🛠️ Things that make digital life better  
+
+---
+
+> Player 1 has entered the repository.
