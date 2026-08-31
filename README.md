@@ -2,8 +2,8 @@
 
 🎮 Games • Open Source • Digital curiosities
 
-I like discovering interesting tools, exploring software
-and finding cool things worth keeping.
+Exploring games, software and interesting projects —
+always looking for something worth keeping.
 
 ---
 
@@ -17,11 +17,11 @@ and finding cool things worth keeping.
 
 ---
 
-### 🧰 Currently exploring
+### 🛠️ Currently exploring
 
 🔎 Interesting open-source projects  
 💻 Useful tools & software  
-🛠️ Things that make digital life better  
+📦 Digital things worth keeping  
 
 ---
 
