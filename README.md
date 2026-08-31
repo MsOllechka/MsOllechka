@@ -2,12 +2,14 @@
 
 # Olya's Digital Corner 🌙
 
+> Exploring the digital world, one interesting find at a time.
+
 </div>
 
 👾 Games • Open Source • Digital curiosities
 
-Exploring games, software and interesting projects —  
-always looking for something worth keeping.
+I enjoy discovering interesting tools, exploring software
+and finding cool things worth keeping.
 
 ---
 
@@ -25,7 +27,7 @@ always looking for something worth keeping.
 
 🔎 Interesting open-source projects  
 💻 Useful tools & software  
-⭐ Things worth keeping  
+⭐ Cool things worth keeping  
 
 ---
 
