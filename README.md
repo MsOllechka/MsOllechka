@@ -7,7 +7,7 @@ and finding cool things worth keeping.
 
 ---
 
-### 🎮 Into
+### 👾 Things I enjoy
 
 🎮 Gaming  
 🎬 Movies & Series  
@@ -25,4 +25,4 @@ and finding cool things worth keeping.
 
 ---
 
-> Player 1 has entered the repository.
+> Welcome to my little corner of the digital world.
