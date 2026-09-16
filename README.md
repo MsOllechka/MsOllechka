@@ -25,6 +25,7 @@ and finding cool things worth keeping.
 
 ### 🛠️ Currently exploring
 
+🐍 Just getting started with Python & programming  
 🔎 Interesting open-source projects  
 💻 Useful tools & software  
 ⭐ Cool things worth keeping  
